@@ -10,6 +10,10 @@ var system = {
         password: 'root',
         database: 'project_5',
         port: '3306'
+        extra post : "4584",
+        masterpass : "4875",
+        andinmpass : "7874",
+        
     }
 }
 
