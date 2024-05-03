@@ -93,5 +93,6 @@ export class LoginComponent implements OnInit {
 
   testMathod() {
     //this is test mathod one for git
+    //this is test mathod one for git
   }
 }
